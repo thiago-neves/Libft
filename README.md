@@ -1,7 +1,7 @@
 # Libft
 A Library with re-writed standard C functions.
 
-## Summary
+## Contents
 
 - [Getting started](https://github.com/thiago-neves/libft#getting-started)
 - [Makefile commands](https://github.com/thiago-neves/libft#makefile-commands)
