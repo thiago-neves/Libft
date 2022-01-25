@@ -1,11 +1,16 @@
+<h3 align="center">42 São Paulo</h3>
+<div align="center">
+	![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952)
+</div>
+
 # 📕 Libft
 A Library with re-writed standard C functions.
 
 ## 📋 Contents
 
-- [Getting started](https://github.com/thiago-neves/libft#getting-started)
-- [Makefile commands](https://github.com/thiago-neves/libft#makefile-commands)
-- [Functions](https://github.com/thiago-neves/libft#functions)
+- [Getting started](https://github.com/thiago-neves/libft#-getting-started)
+- [Makefile commands](https://github.com/thiago-neves/libft#-makefile-commands)
+- [Functions](https://github.com/thiago-neves/libft#-functions)
 
 ## 🏁 Getting started
 
