@@ -1,50 +1,17 @@
-# Libft
+# 📕 Libft
 A Library with re-writed standard C functions.
 
-## Contents
+## 📋 Contents
 
 - [Getting started](https://github.com/thiago-neves/libft#getting-started)
 - [Makefile commands](https://github.com/thiago-neves/libft#makefile-commands)
 - [Functions](https://github.com/thiago-neves/libft#functions)
-  - [ft_isalpha](https://github.com/thiago-neves/libft#ft_isalpha)
-  - [ft_isdigit](https://github.com/thiago-neves/libft#ft_isdigit)
-  - [ft_isalnum](https://github.com/thiago-neves/libft#ft_isalnum)
-  - [ft_isascii](https://github.com/thiago-neves/libft#ft_isascii)
-  - [ft_isprint](https://github.com/thiago-neves/libft#ft_isprint)
-  - [ft_strlen](https://github.com/thiago-neves/libft#ft_strlen)
-  - [ft_memset](https://github.com/thiago-neves/libft#ft_memset)
-  - [ft_bzero](https://github.com/thiago-neves/libft#ft_bzero)
-  - [ft_memcpy](https://github.com/thiago-neves/libft#ft_memcpy)
-  - [ft_memmove](https://github.com/thiago-neves/libft#ft_memmove)
-  - [ft_strlcpy](https://github.com/thiago-neves/libft#ft_strlcpy)
-  - [ft_strlcat](https://github.com/thiago-neves/libft#ft_strlcat)
-  - [ft_toupper](https://github.com/thiago-neves/libft#ft_toupper)
-  - [ft_tolower](https://github.com/thiago-neves/libft#ft_tolower)
-  - [ft_strchr](https://github.com/thiago-neves/libft#ft_strchr)
-  - [ft_strncmp](https://github.com/thiago-neves/libft#ft_strncmp)
-  - [ft_memchr](https://github.com/thiago-neves/libft#ft_memchr)
-  - [ft_memcmp](https://github.com/thiago-neves/libft#ft_memcmp)
-  - [ft_strnstr](https://github.com/thiago-neves/libft#ft_strnstr)
-  - [ft_atoi](https://github.com/thiago-neves/libft#ft_atoi)
-  - [ft_calloc](https://github.com/thiago-neves/libft#ft_calloc)
-  - [ft_strdup](https://github.com/thiago-neves/libft#ft_strdup)
-  - [ft_substr](https://github.com/thiago-neves/libft#ft_substr)
-  - [ft_strjoin](https://github.com/thiago-neves/libft#ft_strjoin)
-  - [ft_strtrim](https://github.com/thiago-neves/libft#ft_strtrim)
-  - [ft_split](https://github.com/thiago-neves/libft#ft_split)
-  - [ft_itoa](https://github.com/thiago-neves/libft#ft_itoa)
-  - [ft_strmapi](https://github.com/thiago-neves/libft#ft_strmapi)
-  - [ft_striteri](https://github.com/thiago-neves/libft#ft_striteri)
-  - [ft_putchar_fd](https://github.com/thiago-neves/libft#ft_putchar_fd)
-  - [ft_putstr_fd](https://github.com/thiago-neves/libft#ft_putstr_fd)
-  - [ft_putendl_fd](https://github.com/thiago-neves/libft#ft_putendl_fd)
-  - [ft_putnbr_fd](https://github.com/thiago-neves/libft#ft_putnbr_fd)
 
-## Getting started
+## 🏁 Getting started
 
-To be able to use the library functions you'll have to compile the library using the `make` command, it'll generate a file library called libft.a.
+To be able to use the library functions you'll have to compile the library using the `make` command, it'll generate a file library called libft.a. These are the same as the originals functions but with the `ft_` prefix.
 
-## Makefile commands
+## 📝 Makefile commands
 
 `make` compile and generates the libft.a.
 
@@ -56,7 +23,7 @@ To be able to use the library functions you'll have to compile the library using
 
 `make n` executes the norminette.
 
-## Functions
+## ⚙ Functions
 
 ### ft_isalpha
 
