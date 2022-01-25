@@ -1,6 +1,9 @@
 <h3 align="center">42 São Paulo</h3>
 <div align="center">
-	![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952)
+
+![License](https://img.shields.io/github/license/librity/ft_libft)
+![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952?color=white)
+
 </div>
 
 # 📕 Libft
