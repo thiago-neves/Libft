@@ -3,7 +3,7 @@
 
 ![License](https://img.shields.io/github/license/thiago-neves/libft)
 ![42 São Paulo](https://img.shields.io/badge/42-SP-1E2952?color=white)
-![Top language](https://img.shields.io/github/languages/top/librity/ft_libft?color=007FFF)
+![Top language](https://img.shields.io/github/languages/top/thiago-neves/ft_printf?color=007FFF)
 
 </div>
 
